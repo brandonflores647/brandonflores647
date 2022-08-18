@@ -39,6 +39,6 @@
 
 ### 🏠 <a href='https://github.com/brandonflores647/Fairbnb' alt='Fairbnb'>Fairbnb</a>ㅤ-ㅤAirbnb clone, create spots, bookings, and reviews
 
-### 📈 <a href='https://github.com/brandonflores647/Finance-Playground' alt='Finance Playground'>Finance Playground</a>ㅤ-ㅤKeep track of your finances with our log book or compound interest calculator
+### 📈 <a href='https://github.com/brandonflores647/Finance-Playground' alt='Finance Playground'>Finance Playground</a>ㅤ-ㅤKeep track of finances with our log book or compound interest calculator
 
-### 🧗‍♂️ <a href='https://github.com/jay-bean/Rendering-Routes' alt='Rendering Routes'>Rendering Routes</a>ㅤ-ㅤCheckout other user's rockclimbing spots, weigh in with reviews or add them to your favorites
+### 🧗‍♂️ <a href='https://github.com/jay-bean/Rendering-Routes' alt='Rendering Routes'>Rendering Routes</a>ㅤ-ㅤCheckout other user's rockclimbing spots, weigh in with reviews and favorites
