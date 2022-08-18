@@ -33,12 +33,12 @@
 
 ## Checkout my applications! ✨
 
-### 📊 <a href='https://github.com/brandonflores647/algopark' alt='Algo Park'>Algo Park
+### 📊 <a href='https://github.com/brandonflores647/algopark' alt='Algo Park'>Algo Park</a>ㅤ-ㅤVisualize and interact with Pathfinding and Sorting algorithms
 
-### 🗃 <a href='https://github.com/Dave89rr/Stakr' alt='Stakr'>Stakr</a>
+### 🗃 <a href='https://github.com/Dave89rr/Stakr' alt='Stakr'>Stakr</a>ㅤ-ㅤKanban style organization tool for user's and their teams
 
-### 🏠 <a href='https://github.com/brandonflores647/Fairbnb' alt='Fairbnb'>Fairbnb</a>
+### 🏠 <a href='https://github.com/brandonflores647/Fairbnb' alt='Fairbnb'>Fairbnb</a>ㅤ-ㅤAirbnb clone, create spots, bookings, and reviews
 
-### 📈 <a href='https://github.com/brandonflores647/Finance-Playground' alt='Finance Playground'>Finance Playground</a>
+### 📈 <a href='https://github.com/brandonflores647/Finance-Playground' alt='Finance Playground'>Finance Playground</a>ㅤ-ㅤKeep track of your finances with our log book or compound interest calculator
 
-### 🧗‍♂️ <a href='https://github.com/jay-bean/Rendering-Routes' alt='Rendering Routes'>Rendering Routes</a>
+### 🧗‍♂️ <a href='https://github.com/jay-bean/Rendering-Routes' alt='Rendering Routes'>Rendering Routes</a>ㅤ-ㅤCheckout other user's rockclimbing spots, weigh in with reviews or add them to your favorites
