@@ -33,9 +33,7 @@
 
 ---
 
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonflores647&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/brandonflores647/)
-[![Brandon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonflores647&layout=compact)](https://github.com/brandonflores647/)
-
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonflores647&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/brandonflores647/)[![Brandon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonflores647&layout=compact)](https://github.com/brandonflores647/)
 
 ## Checkout my applications! ✨
 
