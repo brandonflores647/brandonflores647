@@ -1,4 +1,4 @@
-# Hi there, I'm Brandon Flores 👋 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href='https://www.linkedin.com/in/flores-brandon/' alt='Linked In'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href='mailto:brandonflores647@gmail.com' alt='Gmail'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+# Hi there, I'm Brandon Flores 👋 ㅤㅤㅤㅤㅤㅤㅤ<a href='https://www.linkedin.com/in/flores-brandon/' alt='Linked In'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href='mailto:brandonflores647@gmail.com' alt='Gmail'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ## My toolbelt:
 
