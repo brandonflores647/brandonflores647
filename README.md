@@ -53,5 +53,3 @@
 ### 🏠 <a href='https://bflores-fairbnb.herokuapp.com/' alt='Fairbnb'>Fairbnb</a>ㅤ-ㅤAirbnb clone, create spots, bookings, and reviews
 
 ### 📈 <a href='https://finance-playground.herokuapp.com/about' alt='Finance Playground'>Finance Playground</a>ㅤ-ㅤKeep track of finances with our log book or compound interest calculator
-
-### 🧗‍♂️ <a href='https://rendering-routes.herokuapp.com/' alt='Rendering Routes'>Rendering Routes</a>ㅤ-ㅤCheckout other user's rockclimbing spots, weigh in with reviews and favorites
