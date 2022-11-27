@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
@@ -49,8 +50,8 @@
 
 ### 📊 <a href='https://algopark.herokuapp.com/' alt='Algo Park'>Algo Park</a>ㅤ-ㅤVisualize and interact with Pathfinding and Sorting algorithms
 
-### 🗃 <a href='https://stakr-app.herokuapp.com/' alt='Stakr'>Stakr</a>ㅤ-ㅤKanban style organization tool for user's and their teams
-
 ### 🏠 <a href='https://bflores-fairbnb.herokuapp.com/' alt='Fairbnb'>Fairbnb</a>ㅤ-ㅤAirbnb clone, create spots, bookings, and reviews
+
+### 🗃 <a href='https://stakr-app.herokuapp.com/' alt='Stakr'>Stakr</a>ㅤ-ㅤKanban style organization tool for user's and their teams
 
 ### 📈 <a href='https://finance-playground.herokuapp.com/about' alt='Finance Playground'>Finance Playground</a>ㅤ-ㅤKeep track of finances with our log book or compound interest calculator
