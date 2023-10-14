@@ -51,7 +51,7 @@
 
 ### 📊 <a href='https://algopark.herokuapp.com/' alt='Algo Park'>Algo Park</a>ㅤ-ㅤVisualize and interact with Pathfinding and Sorting algorithms
 
-### 🏠 <a href='https://bflores-fairbnb.herokuapp.com/' alt='Fairbnb'>Fairbnb</a>ㅤ-ㅤAirbnb clone, create spots, bookings, and reviews
+<!-- ### 🏠 <a href='https://bflores-fairbnb.herokuapp.com/' alt='Fairbnb'>Fairbnb</a>ㅤ-ㅤAirbnb clone, create spots, bookings, and reviews -->
 
 ### 🗃 <a href='https://stakr-app.herokuapp.com/' alt='Stakr'>Stakr</a>ㅤ-ㅤKanban style organization tool for user's and their teams
 
